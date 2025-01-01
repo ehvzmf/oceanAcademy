@@ -22,5 +22,5 @@ export const authHandlers = [
     );
   }),
 
-  // 로그아웃 등 추가 핸들러
+  // 로그아웃
 ];
